@@ -3,6 +3,14 @@
 ![image](https://github.com/Sridharpadhy/EDA---Playstore-data-analysis-capstone-project/assets/120051156/1da1e853-12d1-4954-96b9-fd4728ae7350)
 
 
+FILES DETAILS:
+1. Tableu Presentation - It contain tableau dashboard files created after EDA.
+2. Two Files of CSV - The raw data provided us for EDA.
+3. PPT - It containing all the detail of project explained in PPT
+4. Collab NB - This the collab File where all the Explorartory analysis has done.
+5. Technical Documnent - Technical summary documentation provided.
+6. Summary - Summary of whole project is been added over here.
+   
 
                                                           Play Store App Review Analysis
 Mobile apps are everywhere. They are easy to create and can be lucrative, because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google play store   across different categories 
