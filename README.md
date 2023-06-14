@@ -12,7 +12,7 @@ FILES DETAILS:
 6. Summary - Summary of whole project is been added over here.
    
 
-                                                          Play Store App Review Analysis
+     Play Store App Review Analysis
 Mobile apps are everywhere. They are easy to create and can be lucrative, because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google play store   across different categories 
 The Google play store app dataset consists of enormous data that can be used to create effective insights. There are various key factors that play a major role in the success & engagement from the user’s end. Our problem statement is quite inevitable in comparison with the present Google Play store App market. To , explore and analyze datasets are provided, one with basic information and the  other with user reviews for the respective app  and discover all the key factors responsible for app engagement and success.
 Upon doing several pieces of research it can be seen that every day around 3000+ apps is being added to the play store library. Therefore enormous datasets & variety of insights can be concluded for business improvements.
